@@ -1,0 +1,126 @@
+/home/fedor/Рабочий стол/tablo/TabloServer/bin/Debug/net8.0/TabloServer
+/home/fedor/Рабочий стол/tablo/TabloServer/bin/Debug/net8.0/TabloServer.deps.json
+/home/fedor/Рабочий стол/tablo/TabloServer/bin/Debug/net8.0/TabloServer.runtimeconfig.json
+/home/fedor/Рабочий стол/tablo/TabloServer/bin/Debug/net8.0/TabloServer.dll
+/home/fedor/Рабочий стол/tablo/TabloServer/bin/Debug/net8.0/TabloServer.pdb
+/home/fedor/Рабочий стол/tablo/TabloServer/obj/Debug/net8.0/TabloServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/fedor/Рабочий стол/tablo/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfoInputs.cache
+/home/fedor/Рабочий стол/tablo/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfo.cs
+/home/fedor/Рабочий стол/tablo/TabloServer/obj/Debug/net8.0/TabloServer.csproj.CoreCompileInputs.cache
+/home/fedor/Рабочий стол/tablo/TabloServer/obj/Debug/net8.0/TabloServer.dll
+/home/fedor/Рабочий стол/tablo/TabloServer/obj/Debug/net8.0/refint/TabloServer.dll
+/home/fedor/Рабочий стол/tablo/TabloServer/obj/Debug/net8.0/TabloServer.pdb
+/home/fedor/Рабочий стол/tablo/TabloServer/obj/Debug/net8.0/TabloServer.genruntimeconfig.cache
+/home/fedor/Рабочий стол/tablo/TabloServer/obj/Debug/net8.0/ref/TabloServer.dll
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/bin/Debug/net8.0/TabloServer
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/bin/Debug/net8.0/TabloServer.deps.json
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/bin/Debug/net8.0/TabloServer.runtimeconfig.json
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/bin/Debug/net8.0/TabloServer.dll
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/bin/Debug/net8.0/TabloServer.pdb
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/obj/Debug/net8.0/TabloServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfoInputs.cache
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfo.cs
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/obj/Debug/net8.0/TabloServer.csproj.CoreCompileInputs.cache
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/obj/Debug/net8.0/TabloServer.dll
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/obj/Debug/net8.0/refint/TabloServer.dll
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/obj/Debug/net8.0/TabloServer.pdb
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/obj/Debug/net8.0/TabloServer.genruntimeconfig.cache
+/home/fedor/Рабочий стол/Tablo на одного/tablo/TabloServer/obj/Debug/net8.0/ref/TabloServer.dll
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/bin/Debug/net8.0/TabloServer
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/bin/Debug/net8.0/TabloServer.deps.json
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/bin/Debug/net8.0/TabloServer.runtimeconfig.json
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/bin/Debug/net8.0/TabloServer.dll
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/bin/Debug/net8.0/TabloServer.pdb
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/obj/Debug/net8.0/TabloServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfoInputs.cache
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfo.cs
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/obj/Debug/net8.0/TabloServer.csproj.CoreCompileInputs.cache
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/obj/Debug/net8.0/TabloServer.dll
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/obj/Debug/net8.0/refint/TabloServer.dll
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/obj/Debug/net8.0/TabloServer.pdb
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/obj/Debug/net8.0/TabloServer.genruntimeconfig.cache
+/home/fedor/Рабочий стол/TabloFinal2/TabloServer/obj/Debug/net8.0/ref/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/bin/Debug/net8.0/TabloServer.exe
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/bin/Debug/net8.0/TabloServer.deps.json
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/bin/Debug/net8.0/TabloServer.runtimeconfig.json
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/bin/Debug/net8.0/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/bin/Debug/net8.0/TabloServer.pdb
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/obj/Debug/net8.0/TabloServer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfoInputs.cache
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfo.cs
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/obj/Debug/net8.0/TabloServer.csproj.CoreCompileInputs.cache
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/obj/Debug/net8.0/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/obj/Debug/net8.0/refint/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/obj/Debug/net8.0/TabloServer.pdb
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/obj/Debug/net8.0/TabloServer.genruntimeconfig.cache
+C:/Users/Altez/Desktop/TabloFinal3/TabloServer/obj/Debug/net8.0/ref/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/bin/Debug/net8.0/TabloServer.exe
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/bin/Debug/net8.0/TabloServer.deps.json
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/bin/Debug/net8.0/TabloServer.runtimeconfig.json
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/bin/Debug/net8.0/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/bin/Debug/net8.0/TabloServer.pdb
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/obj/Debug/net8.0/TabloServer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfoInputs.cache
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfo.cs
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/obj/Debug/net8.0/TabloServer.csproj.CoreCompileInputs.cache
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/obj/Debug/net8.0/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/obj/Debug/net8.0/refint/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/obj/Debug/net8.0/TabloServer.pdb
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/obj/Debug/net8.0/TabloServer.genruntimeconfig.cache
+C:/Users/Altez/Desktop/TabloFinal4/TabloServer/obj/Debug/net8.0/ref/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/bin/Debug/net8.0/TabloServer.exe
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/bin/Debug/net8.0/TabloServer.deps.json
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/bin/Debug/net8.0/TabloServer.runtimeconfig.json
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/bin/Debug/net8.0/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/bin/Debug/net8.0/TabloServer.pdb
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/obj/Debug/net8.0/TabloServer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfoInputs.cache
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfo.cs
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/obj/Debug/net8.0/TabloServer.csproj.CoreCompileInputs.cache
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/obj/Debug/net8.0/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/obj/Debug/net8.0/refint/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/obj/Debug/net8.0/TabloServer.pdb
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/obj/Debug/net8.0/TabloServer.genruntimeconfig.cache
+C:/Users/Altez/Desktop/TabloFinal5/TabloServer/obj/Debug/net8.0/ref/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/bin/Debug/net8.0/TabloServer.exe
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/bin/Debug/net8.0/TabloServer.deps.json
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/bin/Debug/net8.0/TabloServer.runtimeconfig.json
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/bin/Debug/net8.0/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/bin/Debug/net8.0/TabloServer.pdb
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/obj/Debug/net8.0/TabloServer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfoInputs.cache
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfo.cs
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/obj/Debug/net8.0/TabloServer.csproj.CoreCompileInputs.cache
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/obj/Debug/net8.0/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/obj/Debug/net8.0/refint/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/obj/Debug/net8.0/TabloServer.pdb
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/obj/Debug/net8.0/TabloServer.genruntimeconfig.cache
+C:/Users/Altez/Desktop/TabloFinal6/TabloServer/obj/Debug/net8.0/ref/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/bin/Debug/net8.0/TabloServer.exe
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/bin/Debug/net8.0/TabloServer.deps.json
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/bin/Debug/net8.0/TabloServer.runtimeconfig.json
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/bin/Debug/net8.0/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/bin/Debug/net8.0/TabloServer.pdb
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/obj/Debug/net8.0/TabloServer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfoInputs.cache
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfo.cs
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/obj/Debug/net8.0/TabloServer.csproj.CoreCompileInputs.cache
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/obj/Debug/net8.0/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/obj/Debug/net8.0/refint/TabloServer.dll
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/obj/Debug/net8.0/TabloServer.pdb
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/obj/Debug/net8.0/TabloServer.genruntimeconfig.cache
+C:/Users/Altez/Desktop/TabloFinal7/TabloServer/obj/Debug/net8.0/ref/TabloServer.dll
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/bin/Debug/net8.0/TabloServer
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/bin/Debug/net8.0/TabloServer.deps.json
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/bin/Debug/net8.0/TabloServer.runtimeconfig.json
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/bin/Debug/net8.0/TabloServer.dll
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/bin/Debug/net8.0/TabloServer.pdb
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/obj/Debug/net8.0/TabloServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfoInputs.cache
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/obj/Debug/net8.0/TabloServer.AssemblyInfo.cs
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/obj/Debug/net8.0/TabloServer.csproj.CoreCompileInputs.cache
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/obj/Debug/net8.0/TabloServer.dll
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/obj/Debug/net8.0/refint/TabloServer.dll
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/obj/Debug/net8.0/TabloServer.pdb
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/obj/Debug/net8.0/TabloServer.genruntimeconfig.cache
+/home/fedor/Рабочий стол/TabloFinal8/TabloServer/obj/Debug/net8.0/ref/TabloServer.dll
