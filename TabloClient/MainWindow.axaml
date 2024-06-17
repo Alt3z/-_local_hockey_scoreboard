@@ -1,0 +1,95 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="TabloClient.MainWindow"
+        Width="800" Height="400">
+  <Window.Background>
+    <ImageBrush Source="avares://TabloClient/Assets/background.png" Stretch="UniformToFill"/>
+  </Window.Background>
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="1*"/>
+      <ColumnDefinition Width="Auto"/>
+      <ColumnDefinition Width="1*"/>
+    </Grid.ColumnDefinitions>
+
+    <!-- Название команды -->
+    <Border Grid.Row="0" Grid.Column="0" Margin="5" Background="#A0FFFFFF">
+      <TextBlock Name="Team1Name" Text="Команда 1" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="30"/>
+    </Border>
+    <Border Grid.Row="0" Grid.Column="2" Margin="5" Background="#A0FFFFFF">
+      <TextBlock Name="Team2Name" Text="Команда 2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="30"/>
+    </Border>
+
+    <!-- Счет и Таймер -->
+    <Border Grid.Row="1" Grid.Column="0" Margin="5" Background="#A0FFFFFF">
+      <TextBlock Text="Счет" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="25"/>
+    </Border>
+    <Border Grid.Row="1" Grid.Column="1" Margin="5" Background="#A0FFFFFF">
+      <TextBlock Text="Таймер" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="25"/>
+    </Border>
+    <Border Grid.Row="1" Grid.Column="2" Margin="5" Background="#A0FFFFFF">
+      <TextBlock Text="Счет" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="25"/>
+    </Border>
+
+    <!-- Значения счета и таймера -->
+    <Border Grid.Row="2" Grid.Column="0" Margin="5" Background="#A0FFFFFF">
+      <TextBlock Name="Team1Score" Text="0" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="50"/>
+    </Border>
+    <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center">
+      <Border Margin="0" Background="#A0FFFFFF">
+        <TextBlock Name="MinutesText" Text="00" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="50"/>
+      </Border>
+      <Border Margin="0" Background="#A0FFFFFF">
+        <TextBlock Text=":" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="50"/>
+      </Border>
+      <Border Margin="0" Background="#A0FFFFFF">
+        <TextBlock Name="SecondsText" Text="00" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="50"/>
+      </Border>
+    </StackPanel>
+    <Border Grid.Row="2" Grid.Column="2" Margin="5" Background="#A0FFFFFF">
+      <TextBlock Name="Team2Score" Text="0" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="50"/>
+    </Border>
+
+    <!-- Голы и Период -->
+    <Border Grid.Row="3" Grid.Column="0" Margin="5" Background="#A0FFFFFF">
+      <TextBlock Text="Голы" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="25"/>
+    </Border>
+    <Border Grid.Row="3" Grid.Column="1" Margin="5" Background="#A0FFFFFF">
+      <TextBlock Name="PeriodText" Text="Период: 1" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="25"/>
+    </Border>
+    <Border Grid.Row="3" Grid.Column="2" Margin="5" Background="#A0FFFFFF">
+      <TextBlock Text="Голы" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="25"/>
+    </Border>
+
+    <!-- Голы -->
+    <Border Grid.Row="4" Grid.Column="0" Margin="5" Background="#A0FFFFFF">
+      <StackPanel>
+        <TextBlock Name="Team1Goals1" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="20"/>
+        <TextBlock Name="Team1Goals2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="20"/>
+        <TextBlock Name="Team1Goals3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="20"/>
+        <TextBlock Name="Team1Goals4" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="20"/>
+        <TextBlock Name="Team1Goals5" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="20"/>
+      </StackPanel>
+    </Border>
+    <Border Grid.Row="4" Grid.Column="2" Margin="5" Background="#A0FFFFFF">
+      <StackPanel>
+        <TextBlock Name="Team2Goals1" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="20"/>
+        <TextBlock Name="Team2Goals2" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="20"/>
+        <TextBlock Name="Team2Goals3" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="20"/>
+        <TextBlock Name="Team2Goals4" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="20"/>
+        <TextBlock Name="Team2Goals5" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Black" FontSize="20"/>
+      </StackPanel>
+    </Border>
+  </Grid>
+</Window>
